@@ -1,0 +1,12 @@
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.exe.config
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.exe
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.pdb
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.Properties.Resources.resources
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.exe
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.pdb
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.HighScoresPage.resources
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.WelcomePage.resources
+C:\Users\muham\source\repos\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.GamePage.resources
